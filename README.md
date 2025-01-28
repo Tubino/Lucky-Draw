@@ -13,7 +13,7 @@
 
 
 ## 🔍 Visão geral 
-Esse projeto sorteia é uma aplicação responsiva de um sorteador de números onde o usuário seleciona quantos números quer sortear dentro de um espaço amostral escolhido por ele. Além disso, é possível escolher entre repetir ou não repetir números já sorteados, bem como realizar o sorteio novamente. Esse projeto é um desafio prático da trilha "fullstack", da Rocketseat. 
+Esse projeto é uma aplicação responsiva de um sorteador de números onde o usuário seleciona quantos números quer sortear dentro de um espaço amostral escolhido por ele. Além disso, é possível escolher entre repetir ou não repetir números já sorteados, bem como realizar o sorteio novamente. Esse projeto é um desafio prático da trilha "fullstack", da Rocketseat. 
 
 ## 👨🏻‍💻 Tecnologias 
 - HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
